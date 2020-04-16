@@ -1,2 +1,2 @@
 # utilities-readme
-repositório para armazenar mídias de amostragem de readme para visitantes  
+repositório para armazenar mídias de amostragem de readmes para visitantes  
