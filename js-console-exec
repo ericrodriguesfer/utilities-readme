@@ -1,0 +1,10 @@
+################### Install library ###################
+npm install readline-sync
+
+################### Code ###################
+var readLineSync = require('readline-sync');
+let getLine = () => readLineSync.question();
+
+let nome = String(getLine());
+
+console.log(nome);
